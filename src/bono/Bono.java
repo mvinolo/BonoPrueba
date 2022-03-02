@@ -6,7 +6,7 @@ package bono;
 
 /**
  *
- * @author Miguel
+ * @author Miguel Ángel 21/22
  */
 public class Bono {
 
